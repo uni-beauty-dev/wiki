@@ -44,6 +44,9 @@ Basicamente teremos uma aplicação cliente em React que rodará no browser, ess
 
 Guilherme, Joao Vitor e Eduardo
 
+Mapa de funcionalidades: https://github.com/uni-beauty-dev/wiki/files/11493598/mapa.de.funcionalidades.Unibeauty.pdf
+
 ### Backend
+
 
 Brunno, Gustavo e Arthur
