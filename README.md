@@ -18,7 +18,7 @@ Documentação de arquitetura oficial: https://docs.google.com/document/d/1N6Li7
 
 Para o MVP iremos seguir uma arquitetura mais simples em relação ao produto inicialmente idealizado, por conta do tempo curto de desenvolvimento.
 
-![imagem](./imgArquitetura.jpeg)
+![imagem](./files/imgArquitetura.jpeg)
 
 Basicamente teremos uma aplicação cliente em React que rodará no browser, esse cliente vai requisitar dados para uma API desenvolvida em .NET6, esta API vai persistir os dados em um banco PostgreSQL.
 
@@ -38,15 +38,16 @@ Basicamente teremos uma aplicação cliente em React que rodará no browser, ess
 
 <br/>
 
+## Mapa de Funcionalidades
+
+![imagem](./files/mapaDeFuncionalidades.png)
+
 ## Desenvolvimento
 
 ### Frontend
 
 Guilherme, Joao Vitor e Eduardo
 
-Mapa de funcionalidades: https://github.com/uni-beauty-dev/wiki/files/11493598/mapa.de.funcionalidades.Unibeauty.pdf
-
 ### Backend
-
 
 Brunno, Gustavo e Arthur
