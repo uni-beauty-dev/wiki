@@ -42,6 +42,18 @@ Basicamente teremos uma aplicação cliente em React que rodará no browser, ess
 
 ![imagem](./files/mapaDeFuncionalidades.png)
 
+## Cenário de Uso e Exemplo de Aplicação
+
+Em salão de beleza, existe um livro de agendamento para gerenciar os serviços oferecidos aos seus clientes. A proprietária do salão percebe que essa abordagem está causando problemas de agendamento e atrasos no atendimento, o que afeta negativamente a experiência do cliente e a eficiência operacional do negócio.
+
+A proprietária então pesquisa e encontra a plataforma oferecida pelo projeto UniBeauty, que permite que ela gerencie as agendas dos profissionais do salão, monitore os serviços que estão sendo agendados e forneça aos clientes uma interface amigável para reservar seus horários preferidos.
+
+Ela entra em contato com a equipe de desenvolvimento do projeto e inicia a implementação da plataforma em seu salão. A equipe de desenvolvimento trabalha em estreita colaboração com a proprietária do salão para implantar o sistema e treinar a equipe do salão em como usar a plataforma de forma eficaz.
+
+Após a implantação, a proprietária do salão observa que a plataforma facilita significativamente o processo de agendamento, eliminando os atrasos e reduzindo as chances de erro humano. Os clientes do salão também estão satisfeitos com a experiência de agendamento simplificada e o serviço prestado de forma mais eficiente.
+
+Com a ajuda da plataforma oferecida pelo projeto UniBeauty, a proprietária do salão pode gerenciar seu negócio com mais eficiência, garantindo uma melhor experiência para seus clientes e aumentando sua receita.
+
 ## Desenvolvimento
 
 ### Frontend
